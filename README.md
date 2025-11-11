@@ -27,6 +27,11 @@ Video tutorial qui: https://youtu.be/s_7UZaXF4Ug
 * Pulsanti: https://s.click.aliexpress.com/e/_Dewel69
 * Filamento grigio glitter: https://amzn.to/4o0EEkQ 
 ---
+
+## 🎛️ Schema pratico di assemblaggio
+![Screenshot 2025-11-11 alle 22 29 07](https://github.com/user-attachments/assets/b99220b6-b6c6-4c68-ab89-4430c8cdfed4)
+
+---
 # 📝 Revisioni
 
 Nuova Versione che mostra l'ora nel formato 24 ore.
