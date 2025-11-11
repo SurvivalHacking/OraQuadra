@@ -18,7 +18,7 @@ Video tutorial qui: https://youtu.be/s_7UZaXF4Ug
 
 ![IMG_9131](https://github.com/user-attachments/assets/ea74b668-1d8a-46f1-b658-bf9c43fbeae0)
 
-
+---
 ## 🎛️ Materiali
 
 * Matrice 16x16 RGB: https://s.click.aliexpress.com/e/_DFRyDXJ
@@ -26,14 +26,14 @@ Video tutorial qui: https://youtu.be/s_7UZaXF4Ug
 * DS3231: https://s.click.aliexpress.com/e/_DDlNLRB
 * Pulsanti: https://s.click.aliexpress.com/e/_Dewel69
 * Filamento grigio glitter: https://amzn.to/4o0EEkQ 
-
+---
 # 📝 Revisioni
 
 Nuova Versione che mostra l'ora nel formato 24 ore.
 
 ![Versione_24_ore](https://github.com/user-attachments/assets/c4a831a7-17e0-4337-b392-a0165c32b0bb)
 
-
+---
 ## 🧾 Licenza
 
 Questo progetto è distribuito con licenza
